@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caching and local data
+cache.json
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+/bin/
+/lib/
+/include/
+/pip-selfcheck.json
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS database files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Flask instance folder
+instance/
+
+# Local env files
+.env
+.env.*
